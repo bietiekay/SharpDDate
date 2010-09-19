@@ -1,0 +1,1 @@
+﻿<%@ WebService Language="C#" CodeBehind="DDateWebService.asmx.cs" Class="DDateWebService.Service1" %>

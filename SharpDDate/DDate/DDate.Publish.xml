@@ -1,0 +1,63 @@
+<publishData>
+  <publishTarget publishUrl="C:\Users\bietiekay.SONES\Desktop\DDateSite\">
+    <file relUrl="DiscordianDate.aspx" publishTime="12/31/2009 14:26:08" />
+    <file relUrl="bin/SharpDDateLib.pdb" publishTime="12/31/2009 14:27:15" />
+    <file relUrl="Default.aspx.designer.cs" publishTime="12/31/2009 14:26:07" />
+    <file relUrl="bin/.svn/prop-base/SharpDDateLib.pdb.svn-base" publishTime="12/31/2009 14:26:07" />
+    <file relUrl="Properties/.svn/entries" publishTime="12/31/2009 14:26:07" />
+    <file relUrl="App_Data/.svn/all-wcprops" publishTime="12/31/2009 14:26:07" />
+    <file relUrl="bin/.svn/prop-base/DDate.pdb.svn-base" publishTime="12/31/2009 14:26:07" />
+    <file relUrl="bin/.svn/text-base/DDate.pdb.svn-base" publishTime="12/31/2009 14:26:07" />
+    <file relUrl=".svn/text-base/Default.aspx.svn-base" publishTime="12/31/2009 14:26:07" />
+    <file relUrl=".svn/text-base/DDate.csproj.user.svn-base" publishTime="12/31/2009 14:26:07" />
+    <file relUrl="DDate.csproj" publishTime="12/31/2009 14:26:07" />
+    <file relUrl="bin/.svn/text-base/DDate.dll.svn-base" publishTime="12/31/2009 14:26:07" />
+    <file relUrl="bin/DDate.pdb" publishTime="12/31/2009 14:27:16" />
+    <file relUrl=".svn/text-base/DDate.Publish.xml.svn-base" publishTime="12/31/2009 14:26:07" />
+    <file relUrl=".svn/all-wcprops" publishTime="12/31/2009 14:26:08" />
+    <file relUrl=".svn/text-base/DiscordianDate.aspx.svn-base" publishTime="12/31/2009 14:26:07" />
+    <file relUrl="DiscordianDate.aspx.cs" publishTime="12/31/2009 14:26:08" />
+    <file relUrl=".svn/text-base/Default.aspx.cs.svn-base" publishTime="12/31/2009 14:26:07" />
+    <file relUrl="DDate.csproj.user" publishTime="12/31/2009 14:26:08" />
+    <file relUrl="bin/.svn/text-base/SharpDDateLib.dll.svn-base" publishTime="12/31/2009 14:26:07" />
+    <file relUrl="Web.config" publishTime="12/31/2009 14:26:08" />
+    <file relUrl="bin/SharpDDateLib.dll" publishTime="12/31/2009 14:27:15" />
+    <file relUrl="Properties/AssemblyInfo.cs" publishTime="12/31/2009 14:26:07" />
+    <file relUrl=".svn/text-base/DiscordianDate.aspx.designer.cs.svn-base" publishTime="12/31/2009 14:26:07" />
+    <file relUrl="Properties/.svn/text-base/AssemblyInfo.cs.svn-base" publishTime="12/31/2009 14:26:07" />
+    <file relUrl="bin/.svn/entries" publishTime="12/31/2009 14:26:07" />
+    <file relUrl=".svn/text-base/Web.config.svn-base" publishTime="12/31/2009 14:26:07" />
+    <file relUrl="bin/.svn/prop-base/SharpDDateLib.dll.svn-base" publishTime="12/31/2009 14:26:07" />
+    <file relUrl="Properties/.svn/all-wcprops" publishTime="12/31/2009 14:26:07" />
+    <file relUrl="bin/DDate.dll" publishTime="12/31/2009 14:27:16" />
+    <file relUrl=".svn/text-base/DDate.csproj.svn-base" publishTime="12/31/2009 14:26:07" />
+    <file relUrl=".svn/entries" publishTime="12/31/2009 14:26:08" />
+    <file relUrl="bin/.svn/prop-base/DDate.dll.svn-base" publishTime="12/31/2009 14:26:07" />
+    <file relUrl=".svn/text-base/DiscordianDate.aspx.cs.svn-base" publishTime="12/31/2009 14:26:07" />
+    <file relUrl="Default.aspx.cs" publishTime="12/31/2009 14:26:08" />
+    <file relUrl="bin/.svn/all-wcprops" publishTime="12/31/2009 14:26:07" />
+    <file relUrl="bin/.svn/text-base/SharpDDateLib.pdb.svn-base" publishTime="12/31/2009 14:26:07" />
+    <file relUrl="DDate.Publish.xml" publishTime="12/31/2009 14:26:08" />
+    <file relUrl=".svn/text-base/Default.aspx.designer.cs.svn-base" publishTime="12/31/2009 14:26:07" />
+    <file relUrl="DiscordianDate.aspx.designer.cs" publishTime="12/31/2009 14:26:08" />
+    <file relUrl="App_Data/.svn/entries" publishTime="12/31/2009 14:26:07" />
+    <file relUrl="Default.aspx" publishTime="12/31/2009 14:26:08" />
+  </publishTarget>
+  <publishTarget publishUrl="C:\Users\bietiekay.SONES\Desktop\DDate\">
+    <file relUrl="Default.aspx" publishTime="06/22/2009 12:57:38" />
+    <file relUrl="bin/SharpDDateLib.dll" publishTime="06/22/2009 12:48:45" />
+    <file relUrl="bin/DDate.pdb" publishTime="06/22/2009 12:56:58" />
+    <file relUrl="Default.aspx.cs" publishTime="06/22/2009 12:56:57" />
+    <file relUrl="Web.config" publishTime="06/22/2009 11:49:23" />
+    <file relUrl="DDate.csproj.user" publishTime="06/22/2009 12:30:42" />
+    <file relUrl="bin/SharpDDateLib.pdb" publishTime="06/22/2009 12:48:45" />
+    <file relUrl="DiscordianDate.aspx.designer.cs" publishTime="06/22/2009 12:26:10" />
+    <file relUrl="Default.aspx.designer.cs" publishTime="06/22/2009 12:24:30" />
+    <file relUrl="bin/DDate.dll" publishTime="06/22/2009 12:56:58" />
+    <file relUrl="DDate.Publish.xml" publishTime="06/22/2009 12:50:17" />
+    <file relUrl="DiscordianDate.aspx" publishTime="06/22/2009 12:26:09" />
+    <file relUrl="DDate.csproj" publishTime="06/22/2009 12:30:42" />
+    <file relUrl="DiscordianDate.aspx.cs" publishTime="06/22/2009 12:47:20" />
+    <file relUrl="Properties/AssemblyInfo.cs" publishTime="06/22/2009 11:21:59" />
+  </publishTarget>
+</publishData>
