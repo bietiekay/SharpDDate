@@ -25,6 +25,7 @@ namespace SharpDDateLib
             public int day; /* 0-72 */
             public int yday; /* 0-365 */
             public int year; /* 3066- */
+		    public bool StTibsDay;
     }
 
     public class SharpDiscordianDate
@@ -82,6 +83,9 @@ namespace SharpDDateLib
                   Output = "th";
                   break;
               }
+			
+			 if (Number.ToString().EndsWith("11"))
+               Output = "th";
 
             return Output;
         }
@@ -126,7 +130,12 @@ namespace SharpDDateLib
             int dayspast = 0;
             imonth--;
             Output.year = iyear+1166;
-
+			
+			 if ((imonth == 2) && (iday == 29))
+                Output.StTibsDay = true;
+            else
+                Output.StTibsDay = false;
+			
             while(imonth>0)
             {
                 dayspast+=cal[(Output.year%4)==2?1:0,--imonth];
@@ -190,6 +199,10 @@ namespace SharpDDateLib
                 else
                     Holiday = " Celebrate " + Holidays[hastur.season, 1];
             }
+			
+            if (hastur.StTibsDay)
+                Holiday = " Celebrate St. Tib's Day";
+
 
             return "Today is "+GetDayName(hastur.yday) + ", the " + hastur.day + Ending(hastur.day) + " day of " + Seasons[hastur.season] + " in the YOLD " + hastur.year + Holiday + "\n";
         }
