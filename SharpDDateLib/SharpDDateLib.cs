@@ -1,7 +1,7 @@
 ﻿/*
  * C# Discordian Date Conversion Library
  * 
- * This code was written on the 27th day of Confusion in the Year of Our Lady of Discors 3175 by Daniel Kirstenpfad, http://www.technology-ninja.com 
+ * This code was written on the 27th day of Confusion in the Year of Our Lady of Discord 3175 by Daniel Kirstenpfad, http://www.technology-ninja.com 
  * it is based upon DiscDate.c written  the 65th day of The Aftermath in the Year of Our Lady of Discord 3157 
  *      by Druel the Chaotic aka Jeremy Johnson aka mpython@gnu.ai.mit.edu; Worcester MA 01609
  *      
@@ -68,6 +68,9 @@ namespace SharpDDateLib
 
             int temp = Number%10;
 
+	    if (Number > 4)
+		return "th";
+
               switch (temp)
               { 
                   case 1:
@@ -84,9 +87,6 @@ namespace SharpDDateLib
                   break;
               }
 			
-			 if (Number.ToString().EndsWith("11"))
-               Output = "th";
-
             return Output;
         }
 
